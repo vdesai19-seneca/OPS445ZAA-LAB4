@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #Author: Vivek Desai
-#File name: lab4c.py
+#File name: lab4a.py
 #Date Created: Oct 6, 2024
 
 s1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
